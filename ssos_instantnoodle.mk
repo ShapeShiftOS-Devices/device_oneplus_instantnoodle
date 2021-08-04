@@ -37,7 +37,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=OnePlus8_EEA \
     PRIVATE_BUILD_DESC="OnePlus8-user 11   release-keys"
 
-BUILD_FINGERPRINT := OnePlus/OnePlus8_EEA/OnePlus8:11/RP1A.201005.001/2012102310:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys
 
 # ShapeShiftOS stuff
 PRODUCT_PRODUCT_PROPERTIES += \
